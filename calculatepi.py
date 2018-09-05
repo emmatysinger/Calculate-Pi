@@ -1,6 +1,6 @@
 """
 calculatepi.py
-Author: Emma
+Author: Emma Tysinger
 Credit: <list sources used, if any>
 Assignment:
 
